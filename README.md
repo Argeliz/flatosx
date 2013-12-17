@@ -1,4 +1,4 @@
-flatosx
+FlatOSX
 =======
 
 A theme for ElementaryOS
